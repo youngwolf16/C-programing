@@ -11,7 +11,7 @@ int main() // The operating system runs the main function. If the program execut
 
 { // Beginning of the block-structured program
 
-    printf("Hello World!"); // Displays output on the screen
+    printf("Hello World!\n"); // Displays output on the screen
 
     return 0; // Indicates successful program execution
 
