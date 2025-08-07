@@ -1,3 +1,11 @@
+/*
+
+    Program  : Bitwise AND Operator
+    Language : C
+    Author   : S Sanjay Kumar
+
+*/
+
 #include <stdio.h>
 
 int a = 10, b = 7;
